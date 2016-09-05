@@ -1,0 +1,6 @@
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\bin\Debug\Reflection2.exe.config
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\bin\Debug\Reflection2.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\bin\Debug\Reflection2.pdb
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\obj\Debug\Reflection2.csprojResolveAssemblyReference.cache
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\obj\Debug\Reflection2.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\Reflection2\Reflection2\obj\Debug\Reflection2.pdb
